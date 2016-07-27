@@ -1,0 +1,8 @@
+C:\Users\elio_\Desktop\GihubLabs\Accounts\Lab3.1\bin\Debug\Account.exe.config
+C:\Users\elio_\Desktop\GihubLabs\Accounts\Lab3.1\bin\Debug\Account.exe
+C:\Users\elio_\Desktop\GihubLabs\Accounts\Lab3.1\bin\Debug\Account.pdb
+C:\Users\elio_\Desktop\GihubLabs\Accounts\Lab3.1\bin\Debug\AccountsLib.dll
+C:\Users\elio_\Desktop\GihubLabs\Accounts\Lab3.1\bin\Debug\AccountsLib.pdb
+C:\Users\elio_\Desktop\GihubLabs\Accounts\Lab3.1\obj\Debug\Accounts.csprojResolveAssemblyReference.cache
+C:\Users\elio_\Desktop\GihubLabs\Accounts\Lab3.1\obj\Debug\Account.exe
+C:\Users\elio_\Desktop\GihubLabs\Accounts\Lab3.1\obj\Debug\Account.pdb

@@ -1,0 +1,9 @@
+C:\Users\CodeValue - Elie\Source\Repos\CustomersApp\UnitTestCustomersApp\bin\Debug\UnitTestCustomersApp.dll
+C:\Users\CodeValue - Elie\Source\Repos\CustomersApp\UnitTestCustomersApp\bin\Debug\UnitTestCustomersApp.pdb
+C:\Users\CodeValue - Elie\Source\Repos\CustomersApp\UnitTestCustomersApp\bin\Debug\CustomersApp.exe
+C:\Users\CodeValue - Elie\Source\Repos\CustomersApp\UnitTestCustomersApp\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\CodeValue - Elie\Source\Repos\CustomersApp\UnitTestCustomersApp\bin\Debug\CustomersApp.pdb
+C:\Users\CodeValue - Elie\Source\Repos\CustomersApp\UnitTestCustomersApp\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\CodeValue - Elie\Source\Repos\CustomersApp\UnitTestCustomersApp\obj\Debug\UnitTestCustomersApp.csprojResolveAssemblyReference.cache
+C:\Users\CodeValue - Elie\Source\Repos\CustomersApp\UnitTestCustomersApp\obj\Debug\UnitTestCustomersApp.dll
+C:\Users\CodeValue - Elie\Source\Repos\CustomersApp\UnitTestCustomersApp\obj\Debug\UnitTestCustomersApp.pdb
