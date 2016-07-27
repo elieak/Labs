@@ -1,0 +1,15 @@
+C:\Users\CodeValue - Elie\Source\Repos\GenericApp\GenericApp\bin\Debug\GenericApp.exe.config
+C:\Users\CodeValue - Elie\Source\Repos\GenericApp\GenericApp\bin\Debug\GenericApp.exe
+C:\Users\CodeValue - Elie\Source\Repos\GenericApp\GenericApp\bin\Debug\GenericApp.pdb
+C:\Users\CodeValue - Elie\Source\Repos\GenericApp\GenericApp\obj\Debug\GenericApp.exe
+C:\Users\CodeValue - Elie\Source\Repos\GenericApp\GenericApp\obj\Debug\GenericApp.pdb
+C:\Users\CodeValue - Elie\Source\Repos\GenericApp\GenericApp\obj\Debug\GenericApp.csprojResolveAssemblyReference.cache
+C:\Users\elio_\Desktop\GihubLabs\GenericApp\GenericApp\bin\Debug\GenericApp.exe.config
+C:\Users\elio_\Desktop\GihubLabs\GenericApp\GenericApp\obj\Debug\GenericApp.exe
+C:\Users\elio_\Desktop\GihubLabs\GenericApp\GenericApp\obj\Debug\GenericApp.pdb
+C:\Users\elio_\Desktop\GihubLabs\Basic dotNet Labs\GenericApp\GenericApp\bin\Debug\GenericApp.exe.config
+C:\Users\elio_\Desktop\GihubLabs\Basic dotNet Labs\GenericApp\GenericApp\obj\Debug\GenericApp.exe
+C:\Users\elio_\Desktop\GihubLabs\Basic dotNet Labs\GenericApp\GenericApp\obj\Debug\GenericApp.pdb
+C:\Users\elio_\Desktop\GihubLabs\Basic dotNet Labs\GenericApp\GenericApp\bin\Debug\GenericApp.exe
+C:\Users\elio_\Desktop\GihubLabs\Basic dotNet Labs\GenericApp\GenericApp\bin\Debug\GenericApp.pdb
+C:\Users\elio_\Desktop\GihubLabs\Basic dotNet Labs\GenericApp\GenericApp\obj\Debug\GenericApp.csprojResolveAssemblyReference.cache

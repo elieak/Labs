@@ -1,0 +1,18 @@
+C:\Users\CodeValue - Elie\Source\Repos\GenericApp\GenericAppUnitTest\bin\Debug\GenericAppUnitTest.dll
+C:\Users\CodeValue - Elie\Source\Repos\GenericApp\GenericAppUnitTest\bin\Debug\GenericAppUnitTest.pdb
+C:\Users\CodeValue - Elie\Source\Repos\GenericApp\GenericAppUnitTest\bin\Debug\GenericApp.exe
+C:\Users\CodeValue - Elie\Source\Repos\GenericApp\GenericAppUnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\CodeValue - Elie\Source\Repos\GenericApp\GenericAppUnitTest\bin\Debug\GenericApp.pdb
+C:\Users\CodeValue - Elie\Source\Repos\GenericApp\GenericAppUnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\CodeValue - Elie\Source\Repos\GenericApp\GenericAppUnitTest\obj\Debug\GenericAppUnitTest.csprojResolveAssemblyReference.cache
+C:\Users\CodeValue - Elie\Source\Repos\GenericApp\GenericAppUnitTest\obj\Debug\GenericAppUnitTest.dll
+C:\Users\CodeValue - Elie\Source\Repos\GenericApp\GenericAppUnitTest\obj\Debug\GenericAppUnitTest.pdb
+C:\Users\elio_\Desktop\GihubLabs\GenericApp\GenericAppUnitTest\bin\Debug\GenericAppUnitTest.dll
+C:\Users\elio_\Desktop\GihubLabs\GenericApp\GenericAppUnitTest\bin\Debug\GenericAppUnitTest.pdb
+C:\Users\elio_\Desktop\GihubLabs\GenericApp\GenericAppUnitTest\bin\Debug\GenericApp.exe
+C:\Users\elio_\Desktop\GihubLabs\GenericApp\GenericAppUnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\elio_\Desktop\GihubLabs\GenericApp\GenericAppUnitTest\bin\Debug\GenericApp.pdb
+C:\Users\elio_\Desktop\GihubLabs\GenericApp\GenericAppUnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\elio_\Desktop\GihubLabs\GenericApp\GenericAppUnitTest\obj\Debug\GenericAppUnitTest.csprojResolveAssemblyReference.cache
+C:\Users\elio_\Desktop\GihubLabs\GenericApp\GenericAppUnitTest\obj\Debug\GenericAppUnitTest.dll
+C:\Users\elio_\Desktop\GihubLabs\GenericApp\GenericAppUnitTest\obj\Debug\GenericAppUnitTest.pdb

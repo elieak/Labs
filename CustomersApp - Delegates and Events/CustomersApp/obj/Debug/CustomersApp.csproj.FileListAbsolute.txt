@@ -1,0 +1,18 @@
+C:\Users\CodeValue - Elie\Source\Repos\CustomersApp\CustomersApp\bin\Debug\CustomersApp.exe.config
+C:\Users\CodeValue - Elie\Source\Repos\CustomersApp\CustomersApp\bin\Debug\CustomersApp.exe
+C:\Users\CodeValue - Elie\Source\Repos\CustomersApp\CustomersApp\bin\Debug\CustomersApp.pdb
+C:\Users\CodeValue - Elie\Source\Repos\CustomersApp\CustomersApp\obj\Debug\CustomersApp.csprojResolveAssemblyReference.cache
+C:\Users\CodeValue - Elie\Source\Repos\CustomersApp\CustomersApp\obj\Debug\CustomersApp.exe
+C:\Users\CodeValue - Elie\Source\Repos\CustomersApp\CustomersApp\obj\Debug\CustomersApp.pdb
+C:\Users\elio_\Desktop\GihubLabs\CustomersApp\CustomersApp\bin\Debug\CustomersApp.exe.config
+C:\Users\elio_\Desktop\GihubLabs\CustomersApp\CustomersApp\obj\Debug\CustomersApp.exe
+C:\Users\elio_\Desktop\GihubLabs\CustomersApp\CustomersApp\obj\Debug\CustomersApp.pdb
+C:\Users\elio_\Desktop\GihubLabs\CustomersApp - Delegates and Events\CustomersApp\bin\Debug\CustomersApp.exe.config
+C:\Users\elio_\Desktop\GihubLabs\CustomersApp - Delegates and Events\CustomersApp\obj\Debug\CustomersApp.exe
+C:\Users\elio_\Desktop\GihubLabs\CustomersApp - Delegates and Events\CustomersApp\obj\Debug\CustomersApp.pdb
+C:\Users\elio_\Desktop\GihubLabs\CustomersApp - Delegates and Events\CustomersApp\bin\Debug\CustomersApp.exe
+C:\Users\elio_\Desktop\GihubLabs\CustomersApp - Delegates and Events\CustomersApp\bin\Debug\CustomersApp.pdb
+C:\Users\elio_\Desktop\GihubLabs\CustomersApp - Delegates and Events\CustomersApp\obj\Debug\CustomersApp.csprojResolveAssemblyReference.cache
+C:\Users\elio_\Desktop\GihubLabs\Basic dotNet Labs\CustomersApp - Delegates and Events\CustomersApp\bin\Debug\CustomersApp.exe.config
+C:\Users\elio_\Desktop\GihubLabs\Basic dotNet Labs\CustomersApp - Delegates and Events\CustomersApp\obj\Debug\CustomersApp.exe
+C:\Users\elio_\Desktop\GihubLabs\Basic dotNet Labs\CustomersApp - Delegates and Events\CustomersApp\obj\Debug\CustomersApp.pdb

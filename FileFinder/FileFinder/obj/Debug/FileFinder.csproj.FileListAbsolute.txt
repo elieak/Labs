@@ -1,0 +1,10 @@
+C:\Users\elio_\Desktop\GihubLabs\FileFinder\FileFinder\bin\Debug\FileFinder.exe.config
+C:\Users\elio_\Desktop\GihubLabs\FileFinder\FileFinder\bin\Debug\FileFinder.exe
+C:\Users\elio_\Desktop\GihubLabs\FileFinder\FileFinder\bin\Debug\FileFinder.pdb
+C:\Users\elio_\Desktop\GihubLabs\FileFinder\FileFinder\obj\Debug\FileFinder.exe
+C:\Users\elio_\Desktop\GihubLabs\FileFinder\FileFinder\obj\Debug\FileFinder.pdb
+C:\Users\elio_\Desktop\GihubLabs\Basic dotNet Labs\FileFinder\FileFinder\bin\Debug\FileFinder.exe.config
+C:\Users\elio_\Desktop\GihubLabs\Basic dotNet Labs\FileFinder\FileFinder\obj\Debug\FileFinder.exe
+C:\Users\elio_\Desktop\GihubLabs\Basic dotNet Labs\FileFinder\FileFinder\obj\Debug\FileFinder.pdb
+C:\Users\elio_\Desktop\GihubLabs\Basic dotNet Labs\FileFinder\FileFinder\bin\Debug\FileFinder.exe
+C:\Users\elio_\Desktop\GihubLabs\Basic dotNet Labs\FileFinder\FileFinder\bin\Debug\FileFinder.pdb
