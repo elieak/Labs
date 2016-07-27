@@ -1,0 +1,8 @@
+G:\CodeValueLabs\lab4\lab4.2\TicTacToeGamesTests\bin\Debug\TicTacToeGamesTests.dll
+G:\CodeValueLabs\lab4\lab4.2\TicTacToeGamesTests\bin\Debug\TicTacToeGamesTests.pdb
+G:\CodeValueLabs\lab4\lab4.2\TicTacToeGamesTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+G:\CodeValueLabs\lab4\lab4.2\TicTacToeGamesTests\bin\Debug\TicTacToe.exe
+G:\CodeValueLabs\lab4\lab4.2\TicTacToeGamesTests\bin\Debug\TicTacToe.pdb
+G:\CodeValueLabs\lab4\lab4.2\TicTacToeGamesTests\obj\Debug\TicTacToeGamesTests.csprojResolveAssemblyReference.cache
+G:\CodeValueLabs\lab4\lab4.2\TicTacToeGamesTests\obj\Debug\TicTacToeGamesTests.dll
+G:\CodeValueLabs\lab4\lab4.2\TicTacToeGamesTests\obj\Debug\TicTacToeGamesTests.pdb

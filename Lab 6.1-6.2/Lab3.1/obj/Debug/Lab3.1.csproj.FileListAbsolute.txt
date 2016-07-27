@@ -1,0 +1,11 @@
+C:\Users\CodeValue - Elie\Source\Repos\Accounts\Lab3.1\bin\Debug\Lab3.1.exe.config
+C:\Users\CodeValue - Elie\Source\Repos\Accounts\Lab3.1\bin\Debug\Lab3.1.exe
+C:\Users\CodeValue - Elie\Source\Repos\Accounts\Lab3.1\bin\Debug\Lab3.1.pdb
+C:\Users\CodeValue - Elie\Source\Repos\Accounts\Lab3.1\obj\Debug\Lab3.1.exe
+C:\Users\CodeValue - Elie\Source\Repos\Accounts\Lab3.1\obj\Debug\Lab3.1.pdb
+C:\Users\CodeValue - Elie\Source\Repos\Accounts\Lab3.1\bin\Debug\AccountsLib.dll
+C:\Users\CodeValue - Elie\Source\Repos\Accounts\Lab3.1\bin\Debug\AccountsLib.pdb
+C:\Users\CodeValue - Elie\Source\Repos\Accounts\Lab3.1\obj\Debug\Lab3.1.csprojResolveAssemblyReference.cache
+C:\Users\elio_\Desktop\GihubLabs\Accounts\Lab3.1\bin\Debug\Lab3.1.exe.config
+C:\Users\elio_\Desktop\GihubLabs\Accounts\Lab3.1\obj\Debug\Lab3.1.exe
+C:\Users\elio_\Desktop\GihubLabs\Accounts\Lab3.1\obj\Debug\Lab3.1.pdb

@@ -1,0 +1,9 @@
+C:\Users\CodeValue - Elie\Source\Repos\Strings\Strings\bin\Debug\Strings.exe.config
+C:\Users\CodeValue - Elie\Source\Repos\Strings\Strings\bin\Debug\Strings.exe
+C:\Users\CodeValue - Elie\Source\Repos\Strings\Strings\bin\Debug\Strings.pdb
+C:\Users\CodeValue - Elie\Source\Repos\Strings\Strings\obj\Debug\Strings.csprojResolveAssemblyReference.cache
+C:\Users\CodeValue - Elie\Source\Repos\Strings\Strings\obj\Debug\Strings.exe
+C:\Users\CodeValue - Elie\Source\Repos\Strings\Strings\obj\Debug\Strings.pdb
+C:\Users\elio_\Desktop\GihubLabs\Strings\Strings\bin\Debug\Strings.exe.config
+C:\Users\elio_\Desktop\GihubLabs\Strings\Strings\obj\Debug\Strings.exe
+C:\Users\elio_\Desktop\GihubLabs\Strings\Strings\obj\Debug\Strings.pdb
