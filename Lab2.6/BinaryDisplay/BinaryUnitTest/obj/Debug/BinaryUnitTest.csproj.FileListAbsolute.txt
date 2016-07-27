@@ -1,0 +1,7 @@
+C:\Users\elio_\Desktop\GihubLabs\Lab2.6\BinaryDisplay\BinaryUnitTest\bin\Debug\BinaryUnitTest.dll
+C:\Users\elio_\Desktop\GihubLabs\Lab2.6\BinaryDisplay\BinaryUnitTest\bin\Debug\BinaryUnitTest.pdb
+C:\Users\elio_\Desktop\GihubLabs\Lab2.6\BinaryDisplay\BinaryUnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\elio_\Desktop\GihubLabs\Lab2.6\BinaryDisplay\BinaryUnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\elio_\Desktop\GihubLabs\Lab2.6\BinaryDisplay\BinaryUnitTest\obj\Debug\BinaryUnitTest.csprojResolveAssemblyReference.cache
+C:\Users\elio_\Desktop\GihubLabs\Lab2.6\BinaryDisplay\BinaryUnitTest\obj\Debug\BinaryUnitTest.dll
+C:\Users\elio_\Desktop\GihubLabs\Lab2.6\BinaryDisplay\BinaryUnitTest\obj\Debug\BinaryUnitTest.pdb

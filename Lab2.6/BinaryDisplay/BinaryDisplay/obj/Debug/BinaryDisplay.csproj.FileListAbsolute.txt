@@ -1,0 +1,12 @@
+C:\Users\CodeValue - Elie\Source\Repos\Lab2.6\BinaryDisplay\BinaryDisplay\bin\Debug\BinaryDisplay.exe.config
+C:\Users\CodeValue - Elie\Source\Repos\Lab2.6\BinaryDisplay\BinaryDisplay\bin\Debug\BinaryDisplay.exe
+C:\Users\CodeValue - Elie\Source\Repos\Lab2.6\BinaryDisplay\BinaryDisplay\bin\Debug\BinaryDisplay.pdb
+C:\Users\CodeValue - Elie\Source\Repos\Lab2.6\BinaryDisplay\BinaryDisplay\obj\Debug\BinaryDisplay.exe
+C:\Users\CodeValue - Elie\Source\Repos\Lab2.6\BinaryDisplay\BinaryDisplay\obj\Debug\BinaryDisplay.pdb
+C:\Users\CodeValue - Elie\Source\Repos\Lab2.6\BinaryDisplay\BinaryDisplay\obj\Debug\BinaryDisplay.csprojResolveAssemblyReference.cache
+C:\Users\elio_\Desktop\GihubLabs\Lab2.6\BinaryDisplay\BinaryDisplay\bin\Debug\BinaryDisplay.exe.config
+C:\Users\elio_\Desktop\GihubLabs\Lab2.6\BinaryDisplay\BinaryDisplay\obj\Debug\BinaryDisplay.exe
+C:\Users\elio_\Desktop\GihubLabs\Lab2.6\BinaryDisplay\BinaryDisplay\obj\Debug\BinaryDisplay.pdb
+C:\Users\elio_\Desktop\GihubLabs\Lab2.6\BinaryDisplay\BinaryDisplay\bin\Debug\BinaryDisplay.exe
+C:\Users\elio_\Desktop\GihubLabs\Lab2.6\BinaryDisplay\BinaryDisplay\bin\Debug\BinaryDisplay.pdb
+C:\Users\elio_\Desktop\GihubLabs\Lab2.6\BinaryDisplay\BinaryDisplay\obj\Debug\BinaryDisplay.csprojResolveAssemblyReference.cache

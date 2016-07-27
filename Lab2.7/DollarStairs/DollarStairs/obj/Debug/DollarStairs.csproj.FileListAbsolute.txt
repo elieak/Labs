@@ -1,0 +1,12 @@
+C:\Users\CodeValue - Elie\Source\Repos\Lab2.7\DollarStairs\DollarStairs\bin\Debug\DollarStairs.exe.config
+C:\Users\CodeValue - Elie\Source\Repos\Lab2.7\DollarStairs\DollarStairs\bin\Debug\DollarStairs.exe
+C:\Users\CodeValue - Elie\Source\Repos\Lab2.7\DollarStairs\DollarStairs\bin\Debug\DollarStairs.pdb
+C:\Users\CodeValue - Elie\Source\Repos\Lab2.7\DollarStairs\DollarStairs\obj\Debug\DollarStairs.csprojResolveAssemblyReference.cache
+C:\Users\CodeValue - Elie\Source\Repos\Lab2.7\DollarStairs\DollarStairs\obj\Debug\DollarStairs.exe
+C:\Users\CodeValue - Elie\Source\Repos\Lab2.7\DollarStairs\DollarStairs\obj\Debug\DollarStairs.pdb
+C:\Users\elio_\Desktop\GihubLabs\Lab2.7\DollarStairs\DollarStairs\bin\Debug\DollarStairs.exe.config
+C:\Users\elio_\Desktop\GihubLabs\Lab2.7\DollarStairs\DollarStairs\obj\Debug\DollarStairs.exe
+C:\Users\elio_\Desktop\GihubLabs\Lab2.7\DollarStairs\DollarStairs\obj\Debug\DollarStairs.pdb
+C:\Users\elio_\Desktop\GihubLabs\Lab2.7\DollarStairs\DollarStairs\bin\Debug\DollarStairs.exe
+C:\Users\elio_\Desktop\GihubLabs\Lab2.7\DollarStairs\DollarStairs\bin\Debug\DollarStairs.pdb
+C:\Users\elio_\Desktop\GihubLabs\Lab2.7\DollarStairs\DollarStairs\obj\Debug\DollarStairs.csprojResolveAssemblyReference.cache
