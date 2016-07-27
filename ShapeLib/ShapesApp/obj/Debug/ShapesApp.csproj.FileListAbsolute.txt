@@ -1,0 +1,16 @@
+C:\Users\CodeValue - Elie\Source\Repos\ShapeLib\ShapesApp\bin\Debug\ShapesApp.exe.config
+C:\Users\CodeValue - Elie\Source\Repos\ShapeLib\ShapesApp\bin\Debug\ShapesApp.exe
+C:\Users\CodeValue - Elie\Source\Repos\ShapeLib\ShapesApp\bin\Debug\ShapesApp.pdb
+C:\Users\CodeValue - Elie\Source\Repos\ShapeLib\ShapesApp\bin\Debug\ShapeLib.dll
+C:\Users\CodeValue - Elie\Source\Repos\ShapeLib\ShapesApp\bin\Debug\ShapeLib.pdb
+C:\Users\CodeValue - Elie\Source\Repos\ShapeLib\ShapesApp\obj\Debug\ShapesApp.csprojResolveAssemblyReference.cache
+C:\Users\CodeValue - Elie\Source\Repos\ShapeLib\ShapesApp\obj\Debug\ShapesApp.exe
+C:\Users\CodeValue - Elie\Source\Repos\ShapeLib\ShapesApp\obj\Debug\ShapesApp.pdb
+C:\Users\elio_\Desktop\GihubLabs\ShapeLib\ShapesApp\obj\Debug\ShapesApp.csprojResolveAssemblyReference.cache
+C:\Users\elio_\Desktop\GihubLabs\ShapeLib\ShapesApp\obj\Debug\ShapesApp.exe
+C:\Users\elio_\Desktop\GihubLabs\ShapeLib\ShapesApp\obj\Debug\ShapesApp.pdb
+C:\Users\elio_\Desktop\GihubLabs\ShapeLib\ShapesApp\bin\Debug\ShapesApp.exe.config
+C:\Users\elio_\Desktop\GihubLabs\ShapeLib\ShapesApp\bin\Debug\ShapesApp.exe
+C:\Users\elio_\Desktop\GihubLabs\ShapeLib\ShapesApp\bin\Debug\ShapesApp.pdb
+C:\Users\elio_\Desktop\GihubLabs\ShapeLib\ShapesApp\bin\Debug\ShapeLib.dll
+C:\Users\elio_\Desktop\GihubLabs\ShapeLib\ShapesApp\bin\Debug\ShapeLib.pdb

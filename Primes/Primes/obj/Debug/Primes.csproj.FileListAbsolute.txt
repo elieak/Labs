@@ -1,0 +1,12 @@
+C:\Users\CodeValue - Elie\Source\Repos\Primes\Primes\bin\Debug\Primes.exe.config
+C:\Users\CodeValue - Elie\Source\Repos\Primes\Primes\obj\Debug\Primes.csprojResolveAssemblyReference.cache
+C:\Users\CodeValue - Elie\Source\Repos\Primes\Primes\bin\Debug\Primes.exe
+C:\Users\CodeValue - Elie\Source\Repos\Primes\Primes\bin\Debug\Primes.pdb
+C:\Users\CodeValue - Elie\Source\Repos\Primes\Primes\obj\Debug\Primes.exe
+C:\Users\CodeValue - Elie\Source\Repos\Primes\Primes\obj\Debug\Primes.pdb
+C:\Users\elio_\Desktop\GihubLabs\Primes\Primes\bin\Debug\Primes.exe.config
+C:\Users\elio_\Desktop\GihubLabs\Primes\Primes\obj\Debug\Primes.exe
+C:\Users\elio_\Desktop\GihubLabs\Primes\Primes\obj\Debug\Primes.pdb
+C:\Users\elio_\Desktop\GihubLabs\Primes\Primes\bin\Debug\Primes.exe
+C:\Users\elio_\Desktop\GihubLabs\Primes\Primes\bin\Debug\Primes.pdb
+C:\Users\elio_\Desktop\GihubLabs\Primes\Primes\obj\Debug\Primes.csprojResolveAssemblyReference.cache

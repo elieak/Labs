@@ -1,0 +1,10 @@
+C:\Users\CodeValue - Elie\Source\Repos\ShapeLib\ShapeLib\bin\Debug\ShapeLib.dll
+C:\Users\CodeValue - Elie\Source\Repos\ShapeLib\ShapeLib\bin\Debug\ShapeLib.pdb
+C:\Users\CodeValue - Elie\Source\Repos\ShapeLib\ShapeLib\obj\Debug\ShapeLib.csprojResolveAssemblyReference.cache
+C:\Users\CodeValue - Elie\Source\Repos\ShapeLib\ShapeLib\obj\Debug\ShapeLib.dll
+C:\Users\CodeValue - Elie\Source\Repos\ShapeLib\ShapeLib\obj\Debug\ShapeLib.pdb
+C:\Users\elio_\Desktop\GihubLabs\ShapeLib\ShapeLib\bin\Debug\ShapeLib.dll
+C:\Users\elio_\Desktop\GihubLabs\ShapeLib\ShapeLib\bin\Debug\ShapeLib.pdb
+C:\Users\elio_\Desktop\GihubLabs\ShapeLib\ShapeLib\obj\Debug\ShapeLib.dll
+C:\Users\elio_\Desktop\GihubLabs\ShapeLib\ShapeLib\obj\Debug\ShapeLib.pdb
+C:\Users\elio_\Desktop\GihubLabs\ShapeLib\ShapeLib\obj\Debug\ShapeLib.csprojResolveAssemblyReference.cache
