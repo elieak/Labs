@@ -1,0 +1,18 @@
+C:\Users\CodeValue - Elie\Source\Repos\Lab2.5\MulBoard\MulBoard\bin\Debug\MulBoard.exe.config
+C:\Users\CodeValue - Elie\Source\Repos\Lab2.5\MulBoard\MulBoard\bin\Debug\MulBoard.exe
+C:\Users\CodeValue - Elie\Source\Repos\Lab2.5\MulBoard\MulBoard\bin\Debug\MulBoard.pdb
+C:\Users\CodeValue - Elie\Source\Repos\Lab2.5\MulBoard\MulBoard\obj\Debug\MulBoard.csprojResolveAssemblyReference.cache
+C:\Users\CodeValue - Elie\Source\Repos\Lab2.5\MulBoard\MulBoard\obj\Debug\MulBoard.exe
+C:\Users\CodeValue - Elie\Source\Repos\Lab2.5\MulBoard\MulBoard\obj\Debug\MulBoard.pdb
+C:\Users\elio_\Desktop\GihubLabs\Lab2.5\MulBoard\MulBoard\bin\Debug\MulBoard.exe.config
+C:\Users\elio_\Desktop\GihubLabs\Lab2.5\MulBoard\MulBoard\obj\Debug\MulBoard.exe
+C:\Users\elio_\Desktop\GihubLabs\Lab2.5\MulBoard\MulBoard\obj\Debug\MulBoard.pdb
+C:\Users\elio_\Desktop\GihubLabs\Lab2.5\MulBoard\MulBoard\bin\Debug\MulBoard.exe
+C:\Users\elio_\Desktop\GihubLabs\Lab2.5\MulBoard\MulBoard\bin\Debug\MulBoard.pdb
+C:\Users\elio_\Desktop\GihubLabs\Lab2.5\MulBoard\MulBoard\obj\Debug\MulBoard.csprojResolveAssemblyReference.cache
+C:\Users\elio_\Desktop\GihubLabs\Basic dotNet Labs\Lab2.5\MulBoard\MulBoard\bin\Debug\MulBoard.exe.config
+C:\Users\elio_\Desktop\GihubLabs\Basic dotNet Labs\Lab2.5\MulBoard\MulBoard\obj\Debug\MulBoard.exe
+C:\Users\elio_\Desktop\GihubLabs\Basic dotNet Labs\Lab2.5\MulBoard\MulBoard\obj\Debug\MulBoard.pdb
+C:\Users\elio_\Desktop\GihubLabs\Basic dotNet Labs\Lab2.5\MulBoard\MulBoard\bin\Debug\MulBoard.exe
+C:\Users\elio_\Desktop\GihubLabs\Basic dotNet Labs\Lab2.5\MulBoard\MulBoard\bin\Debug\MulBoard.pdb
+C:\Users\elio_\Desktop\GihubLabs\Basic dotNet Labs\Lab2.5\MulBoard\MulBoard\obj\Debug\MulBoard.csprojResolveAssemblyReference.cache

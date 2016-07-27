@@ -1,0 +1,9 @@
+C:\Users\elio_\Desktop\GihubLabs\Lab2.4\Quad\QuadTest\obj\Debug\QuadTest.csprojResolveAssemblyReference.cache
+C:\Users\elio_\Desktop\GihubLabs\Lab2.4\Quad\QuadTest\bin\Debug\QuadTest.dll
+C:\Users\elio_\Desktop\GihubLabs\Lab2.4\Quad\QuadTest\bin\Debug\QuadTest.pdb
+C:\Users\elio_\Desktop\GihubLabs\Lab2.4\Quad\QuadTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\elio_\Desktop\GihubLabs\Lab2.4\Quad\QuadTest\bin\Debug\Quad.exe
+C:\Users\elio_\Desktop\GihubLabs\Lab2.4\Quad\QuadTest\bin\Debug\Quad.pdb
+C:\Users\elio_\Desktop\GihubLabs\Lab2.4\Quad\QuadTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\elio_\Desktop\GihubLabs\Lab2.4\Quad\QuadTest\obj\Debug\QuadTest.dll
+C:\Users\elio_\Desktop\GihubLabs\Lab2.4\Quad\QuadTest\obj\Debug\QuadTest.pdb

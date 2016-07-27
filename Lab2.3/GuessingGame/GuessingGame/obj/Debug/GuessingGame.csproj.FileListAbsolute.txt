@@ -1,0 +1,7 @@
+C:\Users\CodeValue - Elie\Source\Repos\Lab2.3\GuessingGame\GuessingGame\bin\Debug\GuessingGame.exe.config
+C:\Users\elio_\Desktop\GihubLabs\Lab2.3\GuessingGame\GuessingGame\bin\Debug\GuessingGame.exe.config
+C:\Users\elio_\Desktop\GihubLabs\Lab2.3\GuessingGame\GuessingGame\bin\Debug\GuessingGame.exe
+C:\Users\elio_\Desktop\GihubLabs\Lab2.3\GuessingGame\GuessingGame\bin\Debug\GuessingGame.pdb
+C:\Users\elio_\Desktop\GihubLabs\Lab2.3\GuessingGame\GuessingGame\obj\Debug\GuessingGame.csprojResolveAssemblyReference.cache
+C:\Users\elio_\Desktop\GihubLabs\Lab2.3\GuessingGame\GuessingGame\obj\Debug\GuessingGame.exe
+C:\Users\elio_\Desktop\GihubLabs\Lab2.3\GuessingGame\GuessingGame\obj\Debug\GuessingGame.pdb

@@ -1,0 +1,17 @@
+C:\Users\CodeValue - Elie\Source\Repos\Lab2.2\Lab2.2\CalculatorTest\bin\Debug\CalculatorTest.dll
+C:\Users\CodeValue - Elie\Source\Repos\Lab2.2\Lab2.2\CalculatorTest\bin\Debug\CalculatorTest.pdb
+C:\Users\CodeValue - Elie\Source\Repos\Lab2.2\Lab2.2\CalculatorTest\bin\Debug\Lab2.2.exe
+C:\Users\CodeValue - Elie\Source\Repos\Lab2.2\Lab2.2\CalculatorTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\CodeValue - Elie\Source\Repos\Lab2.2\Lab2.2\CalculatorTest\bin\Debug\Lab2.2.pdb
+C:\Users\CodeValue - Elie\Source\Repos\Lab2.2\Lab2.2\CalculatorTest\obj\Debug\CalculatorTest.csprojResolveAssemblyReference.cache
+C:\Users\CodeValue - Elie\Source\Repos\Lab2.2\Lab2.2\CalculatorTest\obj\Debug\CalculatorTest.dll
+C:\Users\CodeValue - Elie\Source\Repos\Lab2.2\Lab2.2\CalculatorTest\obj\Debug\CalculatorTest.pdb
+C:\Users\elio_\Desktop\GihubLabs\Lab2.2\CalculatorTest\bin\Debug\CalculatorTest.dll
+C:\Users\elio_\Desktop\GihubLabs\Lab2.2\CalculatorTest\bin\Debug\CalculatorTest.pdb
+C:\Users\elio_\Desktop\GihubLabs\Lab2.2\CalculatorTest\bin\Debug\Lab2.2.exe
+C:\Users\elio_\Desktop\GihubLabs\Lab2.2\CalculatorTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\elio_\Desktop\GihubLabs\Lab2.2\CalculatorTest\bin\Debug\Lab2.2.pdb
+C:\Users\elio_\Desktop\GihubLabs\Lab2.2\CalculatorTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\elio_\Desktop\GihubLabs\Lab2.2\CalculatorTest\obj\Debug\CalculatorTest.csprojResolveAssemblyReference.cache
+C:\Users\elio_\Desktop\GihubLabs\Lab2.2\CalculatorTest\obj\Debug\CalculatorTest.dll
+C:\Users\elio_\Desktop\GihubLabs\Lab2.2\CalculatorTest\obj\Debug\CalculatorTest.pdb

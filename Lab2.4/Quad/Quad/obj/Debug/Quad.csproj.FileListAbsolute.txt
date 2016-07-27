@@ -1,0 +1,12 @@
+C:\Users\CodeValue - Elie\Source\Repos\Lab2.4\Quad\Quad\bin\Debug\Quad.exe.config
+C:\Users\CodeValue - Elie\Source\Repos\Lab2.4\Quad\Quad\bin\Debug\Quad.exe
+C:\Users\CodeValue - Elie\Source\Repos\Lab2.4\Quad\Quad\bin\Debug\Quad.pdb
+C:\Users\CodeValue - Elie\Source\Repos\Lab2.4\Quad\Quad\obj\Debug\Quad.csprojResolveAssemblyReference.cache
+C:\Users\CodeValue - Elie\Source\Repos\Lab2.4\Quad\Quad\obj\Debug\Quad.exe
+C:\Users\CodeValue - Elie\Source\Repos\Lab2.4\Quad\Quad\obj\Debug\Quad.pdb
+C:\Users\elio_\Desktop\GihubLabs\Lab2.4\Quad\Quad\bin\Debug\Quad.exe.config
+C:\Users\elio_\Desktop\GihubLabs\Lab2.4\Quad\Quad\obj\Debug\Quad.exe
+C:\Users\elio_\Desktop\GihubLabs\Lab2.4\Quad\Quad\obj\Debug\Quad.pdb
+C:\Users\elio_\Desktop\GihubLabs\Lab2.4\Quad\Quad\bin\Debug\Quad.exe
+C:\Users\elio_\Desktop\GihubLabs\Lab2.4\Quad\Quad\bin\Debug\Quad.pdb
+C:\Users\elio_\Desktop\GihubLabs\Lab2.4\Quad\Quad\obj\Debug\Quad.csprojResolveAssemblyReference.cache
