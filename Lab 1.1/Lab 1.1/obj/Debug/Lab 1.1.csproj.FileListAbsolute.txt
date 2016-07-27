@@ -1,0 +1,9 @@
+C:\Users\elio_\Desktop\Labs C#\Lab 1.1\Lab 1.1\bin\Debug\Lab 1.1.exe.config
+C:\Users\elio_\Desktop\Labs C#\Lab 1.1\Lab 1.1\bin\Debug\Lab 1.1.exe
+C:\Users\elio_\Desktop\Labs C#\Lab 1.1\Lab 1.1\bin\Debug\Lab 1.1.pdb
+C:\Users\elio_\Desktop\Labs C#\Lab 1.1\Lab 1.1\obj\Debug\Lab 1.1.exe
+C:\Users\elio_\Desktop\Labs C#\Lab 1.1\Lab 1.1\obj\Debug\Lab 1.1.pdb
+C:\Users\elio_\Desktop\Labs C#\Lab 1.1\Lab 1.1\obj\Debug\Lab 1.1.csprojResolveAssemblyReference.cache
+C:\Users\elio_\Desktop\GihubLabs\Lab 1.1\Lab 1.1\bin\Debug\Lab 1.1.exe.config
+C:\Users\elio_\Desktop\GihubLabs\Lab 1.1\Lab 1.1\obj\Debug\Lab 1.1.exe
+C:\Users\elio_\Desktop\GihubLabs\Lab 1.1\Lab 1.1\obj\Debug\Lab 1.1.pdb
