@@ -1,0 +1,12 @@
+C:\Users\elio_\Desktop\GihubLabs\MailSystem\MailSystem\bin\Debug\MailSystem.exe.config
+C:\Users\elio_\Desktop\GihubLabs\MailSystem\MailSystem\obj\Debug\MailSystem.csprojResolveAssemblyReference.cache
+C:\Users\elio_\Desktop\GihubLabs\MailSystem\MailSystem\bin\Debug\MailSystem.exe
+C:\Users\elio_\Desktop\GihubLabs\MailSystem\MailSystem\bin\Debug\MailSystem.pdb
+C:\Users\elio_\Desktop\GihubLabs\MailSystem\MailSystem\obj\Debug\MailSystem.exe
+C:\Users\elio_\Desktop\GihubLabs\MailSystem\MailSystem\obj\Debug\MailSystem.pdb
+C:\Users\elio_\Desktop\GihubLabs\Basic dotNet Labs\MailSystem\MailSystem\bin\Debug\MailSystem.exe.config
+C:\Users\elio_\Desktop\GihubLabs\Basic dotNet Labs\MailSystem\MailSystem\obj\Debug\MailSystem.exe
+C:\Users\elio_\Desktop\GihubLabs\Basic dotNet Labs\MailSystem\MailSystem\obj\Debug\MailSystem.pdb
+C:\Users\elio_\Desktop\GihubLabs\Basic dotNet Labs\MailSystem\MailSystem\bin\Debug\MailSystem.exe
+C:\Users\elio_\Desktop\GihubLabs\Basic dotNet Labs\MailSystem\MailSystem\bin\Debug\MailSystem.pdb
+C:\Users\elio_\Desktop\GihubLabs\Basic dotNet Labs\MailSystem\MailSystem\obj\Debug\MailSystem.csprojResolveAssemblyReference.cache

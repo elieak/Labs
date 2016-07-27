@@ -1,0 +1,10 @@
+C:\Users\elio_\Desktop\GihubLabs\Personnel\Personnel\bin\Debug\Personnel.exe.config
+C:\Users\elio_\Desktop\GihubLabs\Personnel\Personnel\bin\Debug\names.txt
+C:\Users\elio_\Desktop\GihubLabs\Personnel\Personnel\bin\Debug\Personnel.exe
+C:\Users\elio_\Desktop\GihubLabs\Personnel\Personnel\bin\Debug\Personnel.pdb
+C:\Users\elio_\Desktop\GihubLabs\Personnel\Personnel\obj\Debug\Personnel.csprojResolveAssemblyReference.cache
+C:\Users\elio_\Desktop\GihubLabs\Personnel\Personnel\obj\Debug\Personnel.exe
+C:\Users\elio_\Desktop\GihubLabs\Personnel\Personnel\obj\Debug\Personnel.pdb
+C:\Users\elio_\Desktop\GihubLabs\Basic dotNet Labs\Personnel\Personnel\bin\Debug\Personnel.exe.config
+C:\Users\elio_\Desktop\GihubLabs\Basic dotNet Labs\Personnel\Personnel\obj\Debug\Personnel.exe
+C:\Users\elio_\Desktop\GihubLabs\Basic dotNet Labs\Personnel\Personnel\obj\Debug\Personnel.pdb

@@ -1,0 +1,12 @@
+C:\Users\CodeValue - Elie\Desktop\Lab-7.1-master\CustomersApp\bin\Debug\CustomersApp.exe.config
+C:\Users\CodeValue - Elie\Desktop\Lab-7.1-master\CustomersApp\bin\Debug\CustomersApp.exe
+C:\Users\CodeValue - Elie\Desktop\Lab-7.1-master\CustomersApp\bin\Debug\CustomersApp.pdb
+C:\Users\CodeValue - Elie\Desktop\Lab-7.1-master\CustomersApp\obj\Debug\CustomersApp.csprojResolveAssemblyReference.cache
+C:\Users\CodeValue - Elie\Desktop\Lab-7.1-master\CustomersApp\obj\Debug\CustomersApp.exe
+C:\Users\CodeValue - Elie\Desktop\Lab-7.1-master\CustomersApp\obj\Debug\CustomersApp.pdb
+C:\Users\elio_\Desktop\Lab-8.1\CustomersApp\bin\Debug\CustomersApp.exe.config
+C:\Users\elio_\Desktop\Lab-8.1\CustomersApp\obj\Debug\CustomersApp.exe
+C:\Users\elio_\Desktop\Lab-8.1\CustomersApp\obj\Debug\CustomersApp.pdb
+C:\Users\elio_\Desktop\Lab-8.1\CustomersApp\bin\Debug\CustomersApp.exe
+C:\Users\elio_\Desktop\Lab-8.1\CustomersApp\bin\Debug\CustomersApp.pdb
+C:\Users\elio_\Desktop\Lab-8.1\CustomersApp\obj\Debug\CustomersApp.csprojResolveAssemblyReference.cache
