@@ -7,3 +7,6 @@ C:\Users\CodeValue - Elie\Source\Repos\CustomersApp\CustomersApp\obj\Debug\Custo
 C:\Users\elio_\Desktop\GihubLabs\CustomersApp\CustomersApp\bin\Debug\CustomersApp.exe.config
 C:\Users\elio_\Desktop\GihubLabs\CustomersApp\CustomersApp\obj\Debug\CustomersApp.exe
 C:\Users\elio_\Desktop\GihubLabs\CustomersApp\CustomersApp\obj\Debug\CustomersApp.pdb
+D:\git\codevalue\advanced-net-course\home-assignments\5\Eli\Labs\CustomersApp\CustomersApp\bin\Debug\CustomersApp.exe.config
+D:\git\codevalue\advanced-net-course\home-assignments\5\Eli\Labs\CustomersApp\CustomersApp\obj\Debug\CustomersApp.exe
+D:\git\codevalue\advanced-net-course\home-assignments\5\Eli\Labs\CustomersApp\CustomersApp\obj\Debug\CustomersApp.pdb

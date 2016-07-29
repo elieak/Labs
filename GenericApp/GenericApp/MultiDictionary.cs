@@ -34,7 +34,7 @@ namespace GenericApp
         public bool Remove(TK key)
         {
             if (!Dictionary.Remove(key)) return false;
-            --Count;
+            --Count;//Bug - you need to decrease count by the amount of items associated with that key - per the Count property of the LinkedList
             return true;
         }
 
@@ -65,7 +65,7 @@ namespace GenericApp
         }
 
         public ICollection<TK> Keys => Dictionary.Keys;
-        public ICollection<LinkedList<TV>> Values => Dictionary.Values;
+        public ICollection<LinkedList<TV>> Values => Dictionary.Values;// The expected property type is : ICollection<TV>
         public int Count { get; private set; }
 
         public IEnumerator<KeyValuePair<TK, IEnumerable<TV>>> GetEnumerator()
