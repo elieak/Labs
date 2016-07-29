@@ -14,3 +14,11 @@ C:\Users\elio_\Desktop\GihubLabs\ShapeLib\ShapesApp\bin\Debug\ShapesApp.exe
 C:\Users\elio_\Desktop\GihubLabs\ShapeLib\ShapesApp\bin\Debug\ShapesApp.pdb
 C:\Users\elio_\Desktop\GihubLabs\ShapeLib\ShapesApp\bin\Debug\ShapeLib.dll
 C:\Users\elio_\Desktop\GihubLabs\ShapeLib\ShapesApp\bin\Debug\ShapeLib.pdb
+D:\git\codevalue\advanced-net-course\home-assignments\5\Eli\Labs\ShapeLib\ShapesApp\bin\Debug\ShapesApp.exe.config
+D:\git\codevalue\advanced-net-course\home-assignments\5\Eli\Labs\ShapeLib\ShapesApp\obj\Debug\ShapesApp.exe
+D:\git\codevalue\advanced-net-course\home-assignments\5\Eli\Labs\ShapeLib\ShapesApp\obj\Debug\ShapesApp.pdb
+D:\git\codevalue\advanced-net-course\home-assignments\5\Eli\Labs\ShapeLib\ShapesApp\bin\Debug\ShapesApp.exe
+D:\git\codevalue\advanced-net-course\home-assignments\5\Eli\Labs\ShapeLib\ShapesApp\bin\Debug\ShapesApp.pdb
+D:\git\codevalue\advanced-net-course\home-assignments\5\Eli\Labs\ShapeLib\ShapesApp\bin\Debug\ShapeLib.dll
+D:\git\codevalue\advanced-net-course\home-assignments\5\Eli\Labs\ShapeLib\ShapesApp\bin\Debug\ShapeLib.pdb
+D:\git\codevalue\advanced-net-course\home-assignments\5\Eli\Labs\ShapeLib\ShapesApp\obj\Debug\ShapesApp.csprojResolveAssemblyReference.cache

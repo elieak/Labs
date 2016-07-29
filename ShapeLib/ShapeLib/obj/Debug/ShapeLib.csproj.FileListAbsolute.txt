@@ -8,3 +8,8 @@ C:\Users\elio_\Desktop\GihubLabs\ShapeLib\ShapeLib\bin\Debug\ShapeLib.pdb
 C:\Users\elio_\Desktop\GihubLabs\ShapeLib\ShapeLib\obj\Debug\ShapeLib.dll
 C:\Users\elio_\Desktop\GihubLabs\ShapeLib\ShapeLib\obj\Debug\ShapeLib.pdb
 C:\Users\elio_\Desktop\GihubLabs\ShapeLib\ShapeLib\obj\Debug\ShapeLib.csprojResolveAssemblyReference.cache
+D:\git\codevalue\advanced-net-course\home-assignments\5\Eli\Labs\ShapeLib\ShapeLib\bin\Debug\ShapeLib.dll
+D:\git\codevalue\advanced-net-course\home-assignments\5\Eli\Labs\ShapeLib\ShapeLib\bin\Debug\ShapeLib.pdb
+D:\git\codevalue\advanced-net-course\home-assignments\5\Eli\Labs\ShapeLib\ShapeLib\obj\Debug\ShapeLib.csprojResolveAssemblyReference.cache
+D:\git\codevalue\advanced-net-course\home-assignments\5\Eli\Labs\ShapeLib\ShapeLib\obj\Debug\ShapeLib.dll
+D:\git\codevalue\advanced-net-course\home-assignments\5\Eli\Labs\ShapeLib\ShapeLib\obj\Debug\ShapeLib.pdb

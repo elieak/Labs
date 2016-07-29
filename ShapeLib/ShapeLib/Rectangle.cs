@@ -24,7 +24,7 @@ namespace ShapeLib
 
         public override void Display()
         {
-            Console.BackgroundColor = Color;
+            Console.BackgroundColor = Color;//You should use 'base.Display()'
             Console.WriteLine($"the width is " + Width + " the height is " + Height);
         }
 
@@ -33,6 +33,16 @@ namespace ShapeLib
             sb.AppendLine("the width is " + Width + " the height is " + Height);
         }
 
+
+        /**
+            Use dynamic only where necessary, this is not the case.
+            You should check for null
+            Check type compatability (is Rectangle)
+            Throw an ArgumentNullException or ArgumentException accordingly
+            Or return a value if argument is valid
+        
+         */
+        
         public int CompareTo(object obj)
         {
             dynamic shape = obj;
