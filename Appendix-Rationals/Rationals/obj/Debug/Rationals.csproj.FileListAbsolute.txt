@@ -13,3 +13,6 @@ C:\Users\elio_\Desktop\GihubLabs\Appendix-Rationals\Rationals\obj\Debug\Rational
 C:\Users\elio_\Desktop\GihubLabs\Appendix-Rationals\Rationals\bin\Debug\Rationals.exe
 C:\Users\elio_\Desktop\GihubLabs\Appendix-Rationals\Rationals\bin\Debug\Rationals.pdb
 C:\Users\elio_\Desktop\GihubLabs\Appendix-Rationals\Rationals\obj\Debug\Rationals.csprojResolveAssemblyReference.cache
+D:\git\codevalue\advanced-net-course\home-assignments\5\Eli\Labs\Appendix-Rationals\Rationals\bin\Debug\Rationals.exe.config
+D:\git\codevalue\advanced-net-course\home-assignments\5\Eli\Labs\Appendix-Rationals\Rationals\obj\Debug\Rationals.exe
+D:\git\codevalue\advanced-net-course\home-assignments\5\Eli\Labs\Appendix-Rationals\Rationals\obj\Debug\Rationals.pdb
