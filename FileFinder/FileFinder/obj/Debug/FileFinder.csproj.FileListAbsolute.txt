@@ -8,3 +8,6 @@ C:\Users\elio_\Desktop\GihubLabs\Basic dotNet Labs\FileFinder\FileFinder\obj\Deb
 C:\Users\elio_\Desktop\GihubLabs\Basic dotNet Labs\FileFinder\FileFinder\obj\Debug\FileFinder.pdb
 C:\Users\elio_\Desktop\GihubLabs\Basic dotNet Labs\FileFinder\FileFinder\bin\Debug\FileFinder.exe
 C:\Users\elio_\Desktop\GihubLabs\Basic dotNet Labs\FileFinder\FileFinder\bin\Debug\FileFinder.pdb
+D:\git\codevalue\advanced-net-course\home-assignments\5\Eli\Labs\FileFinder\FileFinder\bin\Debug\FileFinder.exe.config
+D:\git\codevalue\advanced-net-course\home-assignments\5\Eli\Labs\FileFinder\FileFinder\obj\Debug\FileFinder.exe
+D:\git\codevalue\advanced-net-course\home-assignments\5\Eli\Labs\FileFinder\FileFinder\obj\Debug\FileFinder.pdb
