@@ -8,3 +8,6 @@ C:\Users\elio_\Desktop\GihubLabs\Personnel\Personnel\obj\Debug\Personnel.pdb
 C:\Users\elio_\Desktop\GihubLabs\Basic dotNet Labs\Personnel\Personnel\bin\Debug\Personnel.exe.config
 C:\Users\elio_\Desktop\GihubLabs\Basic dotNet Labs\Personnel\Personnel\obj\Debug\Personnel.exe
 C:\Users\elio_\Desktop\GihubLabs\Basic dotNet Labs\Personnel\Personnel\obj\Debug\Personnel.pdb
+D:\git\codevalue\advanced-net-course\home-assignments\5\Eli\Labs\Personnel\Personnel\bin\Debug\Personnel.exe.config
+D:\git\codevalue\advanced-net-course\home-assignments\5\Eli\Labs\Personnel\Personnel\obj\Debug\Personnel.exe
+D:\git\codevalue\advanced-net-course\home-assignments\5\Eli\Labs\Personnel\Personnel\obj\Debug\Personnel.pdb
