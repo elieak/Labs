@@ -19,3 +19,6 @@ D:\git\codevalue\advanced-net-course\home-assignments\5\Eli\Labs\GenericApp\Gene
 D:\git\codevalue\advanced-net-course\home-assignments\5\Eli\Labs\GenericApp\GenericApp\bin\Debug\GenericApp.exe
 D:\git\codevalue\advanced-net-course\home-assignments\5\Eli\Labs\GenericApp\GenericApp\bin\Debug\GenericApp.pdb
 D:\git\codevalue\advanced-net-course\home-assignments\5\Eli\Labs\GenericApp\GenericApp\obj\Debug\GenericApp.csprojResolveAssemblyReference.cache
+D:\git\codevalue\advanced-net-course\home-assignments\Repo\Eli Abu Karam\Labs\GenericApp\GenericApp\bin\Debug\GenericApp.exe.config
+D:\git\codevalue\advanced-net-course\home-assignments\Repo\Eli Abu Karam\Labs\GenericApp\GenericApp\obj\Debug\GenericApp.exe
+D:\git\codevalue\advanced-net-course\home-assignments\Repo\Eli Abu Karam\Labs\GenericApp\GenericApp\obj\Debug\GenericApp.pdb
