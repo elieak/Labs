@@ -1,0 +1,6 @@
+C:\MySandbox\LINQToObjects\LINQToObjects\bin\Debug\LINQToObjects.exe.config
+C:\MySandbox\LINQToObjects\LINQToObjects\bin\Debug\LINQToObjects.exe
+C:\MySandbox\LINQToObjects\LINQToObjects\bin\Debug\LINQToObjects.pdb
+C:\MySandbox\LINQToObjects\LINQToObjects\obj\Debug\LINQToObjects.csprojResolveAssemblyReference.cache
+C:\MySandbox\LINQToObjects\LINQToObjects\obj\Debug\LINQToObjects.exe
+C:\MySandbox\LINQToObjects\LINQToObjects\obj\Debug\LINQToObjects.pdb
