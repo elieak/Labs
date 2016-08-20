@@ -1,0 +1,9 @@
+C:\Users\elio_\Desktop\GihubLabs\Advanced dotNet Labs\Mod7_PrimesCalculator\Mod7_PrimesCalculator\bin\Debug\Mod7_PrimesCalculator.exe.config
+C:\Users\elio_\Desktop\GihubLabs\Advanced dotNet Labs\Mod7_PrimesCalculator\Mod7_PrimesCalculator\bin\Debug\Mod7_PrimesCalculator.exe
+C:\Users\elio_\Desktop\GihubLabs\Advanced dotNet Labs\Mod7_PrimesCalculator\Mod7_PrimesCalculator\bin\Debug\Mod7_PrimesCalculator.pdb
+C:\Users\elio_\Desktop\GihubLabs\Advanced dotNet Labs\Mod7_PrimesCalculator\Mod7_PrimesCalculator\obj\Debug\Mod7_PrimesCalculator.csprojResolveAssemblyReference.cache
+C:\Users\elio_\Desktop\GihubLabs\Advanced dotNet Labs\Mod7_PrimesCalculator\Mod7_PrimesCalculator\obj\Debug\Mod7_PrimesCalculator.Form1.resources
+C:\Users\elio_\Desktop\GihubLabs\Advanced dotNet Labs\Mod7_PrimesCalculator\Mod7_PrimesCalculator\obj\Debug\Mod7_PrimesCalculator.Properties.Resources.resources
+C:\Users\elio_\Desktop\GihubLabs\Advanced dotNet Labs\Mod7_PrimesCalculator\Mod7_PrimesCalculator\obj\Debug\Mod7_PrimesCalculator.csproj.GenerateResource.Cache
+C:\Users\elio_\Desktop\GihubLabs\Advanced dotNet Labs\Mod7_PrimesCalculator\Mod7_PrimesCalculator\obj\Debug\Mod7_PrimesCalculator.exe
+C:\Users\elio_\Desktop\GihubLabs\Advanced dotNet Labs\Mod7_PrimesCalculator\Mod7_PrimesCalculator\obj\Debug\Mod7_PrimesCalculator.pdb
