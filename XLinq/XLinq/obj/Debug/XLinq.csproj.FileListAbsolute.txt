@@ -1,0 +1,6 @@
+C:\MySandbox\XLinq\XLinq\bin\Debug\XLinq.exe.config
+C:\MySandbox\XLinq\XLinq\bin\Debug\XLinq.exe
+C:\MySandbox\XLinq\XLinq\bin\Debug\XLinq.pdb
+C:\MySandbox\XLinq\XLinq\obj\Debug\XLinq.csprojResolveAssemblyReference.cache
+C:\MySandbox\XLinq\XLinq\obj\Debug\XLinq.exe
+C:\MySandbox\XLinq\XLinq\obj\Debug\XLinq.pdb
