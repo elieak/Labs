@@ -1,0 +1,4 @@
+C:\Users\elio_\Desktop\GihubLabs\Advanced dotNet Labs\LimitedQueue\LimitedQueue\bin\Debug\LimitedQueue.exe.config
+C:\Users\elio_\Desktop\GihubLabs\Advanced dotNet Labs\LimitedQueue\LimitedQueue\obj\Debug\LimitedQueue.csprojResolveAssemblyReference.cache
+C:\Users\elio_\Desktop\GihubLabs\Advanced dotNet Labs\LimitedQueue\LimitedQueue\bin\Debug\Queue.exe.config
+C:\Users\elio_\Desktop\GihubLabs\Advanced dotNet Labs\LimitedQueue\LimitedQueue\bin\Debug\Queues.exe.config
