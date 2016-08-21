@@ -30,7 +30,7 @@ namespace AsyncDemo
              {
                  var list = primeDelegate.EndInvoke(iAsyncResult);
 
-                 Invoke(new Action(() =>
+                 BeginInvoke(new Action(() =>
                  {
                      listBox1.Items.Clear();
                      foreach (var number in list)
