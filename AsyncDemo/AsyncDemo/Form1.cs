@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -23,7 +23,6 @@ namespace AsyncDemo
         private void calculateBtn_Click(object sender, EventArgs e)
         {
             PrimeDelegate primeDelegate = CalcPrimes;
-            calculateBtn.Enabled = false;
             listBox1.DataSource = null;
             listBox1.Items.Clear();
 
@@ -85,7 +84,6 @@ namespace AsyncDemo
             listBox1.DataSource = list;
             listBox1.Refresh();
             listBox1.EndUpdate();
-            calculateBtn.Enabled = true;
         }
         private void OnCompleted(IAsyncResult result)
         {
