@@ -26,10 +26,11 @@ namespace AsyncDemo
             listBox1.DataSource = null;
             listBox1.Items.Clear();
 
+            // next time use try parse
             primeDelegate.BeginInvoke(int.Parse(firstNumberTB.Text), int.Parse(secondNumberTB.Text), delegate (IAsyncResult iAsyncResult)
              {
                  var list = primeDelegate.EndInvoke(iAsyncResult);
-
+                 // The UI blocked
                  BeginInvoke(new Action(() =>
                  {
                      listBox1.Items.Clear();
@@ -40,6 +41,7 @@ namespace AsyncDemo
                  }));
              }, primeDelegate);
         }
+        // why static? bad names for the parameters
         private static IEnumerable<int> CalcPrimes(int fNumber, int sNumber)
         {
             var primes = new List<int>();
@@ -85,6 +87,7 @@ namespace AsyncDemo
             listBox1.Refresh();
             listBox1.EndUpdate();
         }
+        // 0 Refernces ??
         private void OnCompleted(IAsyncResult result)
         {
             var primeDel = (PrimeDelegate)result.AsyncState;

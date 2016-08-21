@@ -7,3 +7,12 @@ C:\Users\elio_\Desktop\GihubLabs\Advanced dotNet Labs\AsyncDemo\AsyncDemo\obj\De
 C:\Users\elio_\Desktop\GihubLabs\Advanced dotNet Labs\AsyncDemo\AsyncDemo\obj\Debug\AsyncDemo.csproj.GenerateResource.Cache
 C:\Users\elio_\Desktop\GihubLabs\Advanced dotNet Labs\AsyncDemo\AsyncDemo\obj\Debug\AsyncDemo.exe
 C:\Users\elio_\Desktop\GihubLabs\Advanced dotNet Labs\AsyncDemo\AsyncDemo\obj\Debug\AsyncDemo.pdb
+C:\Users\CodeValue\Source\EliAbuKarem\Labs\AsyncDemo\AsyncDemo\bin\Debug\AsyncDemo.exe.config
+C:\Users\CodeValue\Source\EliAbuKarem\Labs\AsyncDemo\AsyncDemo\obj\Debug\AsyncDemo.exe
+C:\Users\CodeValue\Source\EliAbuKarem\Labs\AsyncDemo\AsyncDemo\obj\Debug\AsyncDemo.pdb
+C:\Users\CodeValue\Source\EliAbuKarem\Labs\AsyncDemo\AsyncDemo\bin\Debug\AsyncDemo.exe
+C:\Users\CodeValue\Source\EliAbuKarem\Labs\AsyncDemo\AsyncDemo\bin\Debug\AsyncDemo.pdb
+C:\Users\CodeValue\Source\EliAbuKarem\Labs\AsyncDemo\AsyncDemo\obj\Debug\AsyncDemo.csprojResolveAssemblyReference.cache
+C:\Users\CodeValue\Source\EliAbuKarem\Labs\AsyncDemo\AsyncDemo\obj\Debug\AsyncDemo.Form1.resources
+C:\Users\CodeValue\Source\EliAbuKarem\Labs\AsyncDemo\AsyncDemo\obj\Debug\AsyncDemo.Properties.Resources.resources
+C:\Users\CodeValue\Source\EliAbuKarem\Labs\AsyncDemo\AsyncDemo\obj\Debug\AsyncDemo.csproj.GenerateResource.Cache
