@@ -8,6 +8,7 @@ namespace LINQToObjects
 {
     class Program
     {
+        //Perfect
         static void Main(string[] args)
         {
             DisplayMscorlibInterfaces();
@@ -35,7 +36,7 @@ namespace LINQToObjects
         {
             Console.WriteLine("Press Enter to display the number of Threads in the system...");
             Console.ReadLine();
-
+            
             Console.WriteLine($"Total threads: { Process.GetProcesses().Sum(process => process.Threads.Count) }");
 
             Console.WriteLine("\n======================= End of Threads in system =======================");
@@ -46,7 +47,8 @@ namespace LINQToObjects
             Console.WriteLine("Press Enter to display them Ordereded By Priority...");
             Console.ReadLine();
 
-            var processes2 = from process in Process.GetProcesses()
+            var processes2 = from process in Process.GetProcesses()                                 
+                             //extend for b... where process.CanAccess() && process.Threads.Count < 5
                              where process.Threads.Count < 15
                              orderby process.Id
                              group new
@@ -70,7 +72,7 @@ namespace LINQToObjects
             }
             Console.WriteLine("\n======================= End of Processes grouping =======================");
         }
-
+        //Very Good
         private static void DisplayRunningProcesses()
         {
             Console.WriteLine("Press Enter to display the running Processes...");
@@ -99,8 +101,8 @@ namespace LINQToObjects
             Console.WriteLine("Press Enter to display mscorlib Interfaces...");
             Console.ReadLine();
 
-            var publicInterface = from pInterface in typeof(string).Assembly.GetExportedTypes()
-                                  where pInterface.IsInterface
+            var publicInterface = from pInterface in typeof(string).Assembly.GetExportedTypes() 
+                                  where pInterface.IsInterface //forget && pInterface.IsPublic
                                   orderby pInterface.Name
                                   select new
                                   {
