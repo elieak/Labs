@@ -1,0 +1,11 @@
+C:\Users\elio_\Desktop\GihubLabs\Advanced dotNet Labs\Backgammon\BackgammonGame\obj\Debug\BackgammonGame.Form1.resources
+C:\Users\elio_\Desktop\GihubLabs\Advanced dotNet Labs\Backgammon\BackgammonGame\obj\Debug\BackgammonGame.Properties.Resources.resources
+C:\Users\elio_\Desktop\GihubLabs\Advanced dotNet Labs\Backgammon\BackgammonGame\obj\Debug\BackgammonGame.csproj.GenerateResource.Cache
+C:\Users\elio_\Desktop\GihubLabs\Advanced dotNet Labs\Backgammon\BackgammonGame\obj\Debug\BackgammonGame.csprojResolveAssemblyReference.cache
+C:\Users\elio_\Desktop\GihubLabs\Advanced dotNet Labs\Backgammon\BackgammonGame\bin\Debug\BackgammonGame.exe.config
+C:\Users\elio_\Desktop\GihubLabs\Advanced dotNet Labs\Backgammon\BackgammonGame\bin\Debug\BackgammonGame.exe
+C:\Users\elio_\Desktop\GihubLabs\Advanced dotNet Labs\Backgammon\BackgammonGame\bin\Debug\BackgammonGame.pdb
+C:\Users\elio_\Desktop\GihubLabs\Advanced dotNet Labs\Backgammon\BackgammonGame\bin\Debug\BackgammonLogic.dll
+C:\Users\elio_\Desktop\GihubLabs\Advanced dotNet Labs\Backgammon\BackgammonGame\bin\Debug\BackgammonLogic.pdb
+C:\Users\elio_\Desktop\GihubLabs\Advanced dotNet Labs\Backgammon\BackgammonGame\obj\Debug\BackgammonGame.exe
+C:\Users\elio_\Desktop\GihubLabs\Advanced dotNet Labs\Backgammon\BackgammonGame\obj\Debug\BackgammonGame.pdb

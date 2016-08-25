@@ -1,0 +1,5 @@
+C:\Users\elio_\Desktop\GihubLabs\Advanced dotNet Labs\Backgammon\BackgammonLogic\obj\Debug\BackgammonLogic.csprojResolveAssemblyReference.cache
+C:\Users\elio_\Desktop\GihubLabs\Advanced dotNet Labs\Backgammon\BackgammonLogic\bin\Debug\BackgammonLogic.dll
+C:\Users\elio_\Desktop\GihubLabs\Advanced dotNet Labs\Backgammon\BackgammonLogic\bin\Debug\BackgammonLogic.pdb
+C:\Users\elio_\Desktop\GihubLabs\Advanced dotNet Labs\Backgammon\BackgammonLogic\obj\Debug\BackgammonLogic.dll
+C:\Users\elio_\Desktop\GihubLabs\Advanced dotNet Labs\Backgammon\BackgammonLogic\obj\Debug\BackgammonLogic.pdb

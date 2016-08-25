@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackgammonLogic", "BackgammonLogic\BackgammonLogic.csproj", "{1B4FFA7F-214F-4BF3-B576-04B2C6E1A3EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackgammonGame", "BackgammonGame\BackgammonGame.csproj", "{30D99E4E-44E4-40E4-8F51-343CE3ADF05B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B4FFA7F-214F-4BF3-B576-04B2C6E1A3EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B4FFA7F-214F-4BF3-B576-04B2C6E1A3EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B4FFA7F-214F-4BF3-B576-04B2C6E1A3EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B4FFA7F-214F-4BF3-B576-04B2C6E1A3EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30D99E4E-44E4-40E4-8F51-343CE3ADF05B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30D99E4E-44E4-40E4-8F51-343CE3ADF05B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30D99E4E-44E4-40E4-8F51-343CE3ADF05B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30D99E4E-44E4-40E4-8F51-343CE3ADF05B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
